@@ -135,22 +135,6 @@ https://docs.conda.io/en/main/miniconda.html
 
 Python version > 3.8 is required
 
-### Create a conda environemnt and install packages:
-
-```
-conda env create -n tss --file tss.yml
-```
-
-### Install R packages
-
-```
-RPACKAGES=$(Rscript <(echo 'chooseCRANmirror(ind=2)
-install.packages("BiocManager")
-install.packages("optparse")
-install.packages("ggplot2")
-BiocManager::install("ggtree")'))
-```
-
 ### Download the pipeline:
 
 Either download the pipeline from github or run:
@@ -160,6 +144,22 @@ git clone github.com/ammaraziz/tss
 ```
 
 Place this somewhere smart like your `bin` folder in your home directory.
+
+### Create a conda environemnt and install packages:
+
+```
+conda env create -n tss --file tss.yml
+```
+
+### Install R-Bioconductor packages
+
+In bash run:
+
+```
+RPACKAGES=$(Rscript <(echo 'chooseCRANmirror(ind=2)
+install.packages("BiocManager")
+BiocManager::install("ggtree")'))
+```
 
 ### Dry run
 
