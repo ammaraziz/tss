@@ -4,11 +4,12 @@ from pathlib import Path
 #export AUGUR_RECURSION_LIMIT=10000
 
 # input
-input_fasta = Path("data/25Jul22_h1.fasta")
-input_metadata = Path("data/25Jul22_h1.tsv")
+input_fasta = Path("data/YOURFASTA.fasta")
+input_metadata = Path("data/YOURFASTA.tsv")
 lineage = 'h1n1pdm' #vic h1n1pdm h3n2
 segment = 'ha' #ha na
 
+# name of reference to root tree
 reference_name = {
     "h3n2" : "3C.3a_A/Switzerland/9715293/2013",
     #"h1n1pdm" : "A/California/07/2009", 

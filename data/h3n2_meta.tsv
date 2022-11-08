@@ -1,0 +1,20 @@
+strain	accession	date	month	type
+3C.2a1b.1_A/Wisconsin/327/2017	EPI_ISL_290860	2017-09-22	Reference	Reference
+3C.2a1b.1a_A/Perth/20/2020	N10038259	2020-01-29	Reference	Reference
+3C.2a1b.1b_A/Hong_Kong/2671/2019	EPI_ISL_400888	2019-06-17	Reference	Vaccine
+3C.2a1b.2_A/South_Australia/34/2019	N10014601	2019-02-06	Reference	Reference
+3C.2a1b.2a_A/Qatar/16-VI-19-0049409/2019	N10040339	2019-08-27	Reference	Reference
+3C.2a1b.2a.1_A/Tasmania/503/2020	N10039710	2020-02-16	Reference	Reference
+3C.2a1b.2a.2_A/Bangladesh/3005/2020	968670	2020-09-05	Reference	Reference
+3C.2a1b.2b_A/Victoria/223/2019	N10030185	2019-08-12	Reference	Reference
+3C.2a2_A/Switzerland/8060/2017	EPI_ISL_330887		Reference	Reference
+3C.3a_A/Switzerland/9715293/2013	EPI_ISL_165829	2013-12-06	Reference	Reference
+3C.3a.1_A/Kansas/14/2017	EPI_ISL_312833 	2017-12-14	Reference	Reference
+A/Cambodia/e0826360/2020e	806547	2020-07-16	Reference	Vaccine
+A/Canberra/1/2022e	S10058400.4	2022-03-14		Egg
+A/Darwin/24/2021e	EPI_ISL_5522638	2021-08-11	Reference	Egg
+A/Darwin/6/2021q	S10042628	2021-03-21	Reference	Vaccine
+A/Darwin/9/2021e	N10042639	2021-04-17	Reference	Vaccine
+A/Singapore/INFKK0002/2021e	EPI_ISL_5933270	2021-02-01		Egg
+A/Victoria/39/2022e	S10058399.4	2022-03-26		Egg
+A/Victoria/6/2022e	S10053488.4	2022-02-12		Egg
