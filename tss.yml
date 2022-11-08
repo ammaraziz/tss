@@ -1,0 +1,13 @@
+name: tss
+channels:
+ - defaults
+ - conda-forge
+ - bioconda 
+dependencies:
+ - python=>3.8
+ - augur=18.1.2
+ - snakemake
+ - r-base
+ - r-ggplot2
+ - r-optparse
+ - r-cowplot

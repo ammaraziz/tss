@@ -1,0 +1,948 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "17.1.0"
+  },
+  "nodes": {
+    "6B.1A.1_A/Brisbane/02/2018": {
+      "clade_membership": "6B.1A"
+    },
+    "6B.1A.2_A/Townsville/21/2018": {
+      "clade_annotation": "6B.1A.2",
+      "clade_membership": "6B.1A.2"
+    },
+    "6B.1A.5a.1_A/Guangdong-Maonan/SWL1536/2019": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "6B.1A.5a.2_A/Perth/21/2020": {
+      "clade_membership": "6B.1A.5a"
+    },
+    "6B.1A.5a.2_A/Victoria/2570/2019": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "6B.1A.5a_A/Darwin/6/2018": {
+      "clade_membership": "6B.1A.5a"
+    },
+    "6B.1A.5b_A/Canberra/337/2019": {
+      "clade_annotation": "6B.1A.5b",
+      "clade_membership": "6B.1A.5b"
+    },
+    "6B.1_A/Michigan/45/2015": {
+      "clade_membership": "6B.1A"
+    },
+    "A/Brisbane/12/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Brisbane/51/2022_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/California/07/2009": {
+      "clade_membership": "6B.1A"
+    },
+    "A/Canberra/173/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/178/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/180/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/182/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/185/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/202/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/222/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/224/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Canberra/230/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/105/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/106/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/117/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/124/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/129/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/132/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/136/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/152/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/156/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/161/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/204/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/220/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/2402/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/262/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/300/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/306/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/326/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/33/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/349/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/350/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/353/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/355/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/363/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/368/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/383/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/395/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/405/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/417/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/486/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/491/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/7/2022e_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Darwin/886/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Newcastle/17/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Newcastle/28/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Newcastle/29/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Newcastle/39/2022_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Newcastle/78/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Newcastle/85/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Newcastle/95/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/North_Carolina/01/2021e": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Perth/15/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Perth/167/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Perth/184/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Perth/21/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Perth/80/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/15549/2021e": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R00171/2022_jan": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R01964/2022_feb": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R02741/2022_mar": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R03033/2022_mar": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R03645/2022_mar": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R04202/2022_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R04218/2022_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R04433/2022_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R04592/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R04778/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R04849/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R04851/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R04919/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R04922/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R04933/2022_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R04994/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R05209/2022_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R05222/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R05258/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R05375/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R05396/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R05539/2022_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R05558/2022_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R05655/2022_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/South_Africa/R05722/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R05744/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Africa/R05765/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Australia/49/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/South_Australia/70/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/173/2022e_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/175/2022e_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/232/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/253/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/260/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/362/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/406/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/427/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/43/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/458/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/492/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/498/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/5/2021e_oct": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/575/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/603/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/613/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/635/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/644/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/656/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/72/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/774/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/798/2022_jun": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Sydney/811/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/819/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/821/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/823/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/831/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/832/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/834/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/851/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/853/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/866/2022_jun": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Sydney/869/2022_jun": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Sydney/870/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/872/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/877/2022_jun": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Sydney/880/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Sydney/894/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Togo/44/2021e": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Togo/881/2020": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Victoria/2455/2019e": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "A/Victoria/3602/2022_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Victoria/4160/2022_jun": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "A/Victoria/747/2022_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000000": {
+      "clade_annotation": "6B.1A",
+      "clade_membership": "6B.1A"
+    },
+    "NODE_0000001": {
+      "clade_membership": "6B.1A"
+    },
+    "NODE_0000002": {
+      "clade_membership": "6B.1A"
+    },
+    "NODE_0000003": {
+      "clade_membership": "6B.1A"
+    },
+    "NODE_0000004": {
+      "clade_annotation": "6B.1A.5",
+      "clade_membership": "6B.1A.5"
+    },
+    "NODE_0000005": {
+      "clade_annotation": "6B.1A.5a",
+      "clade_membership": "6B.1A.5a"
+    },
+    "NODE_0000006": {
+      "clade_membership": "6B.1A.5a"
+    },
+    "NODE_0000007": {
+      "clade_annotation": "6B.1A.5a.1",
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000008": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000009": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000010": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000011": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000012": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000013": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000014": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000015": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000016": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000017": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000018": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000019": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000020": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000021": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000022": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000023": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000024": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000025": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000026": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000027": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000028": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000029": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000030": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000031": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000032": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000033": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000034": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000035": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000036": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000037": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000038": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000039": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000040": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000041": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000042": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "NODE_0000043": {
+      "clade_membership": "6B.1A.5a"
+    },
+    "NODE_0000044": {
+      "clade_annotation": "6B.1A.5a.2",
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000045": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000046": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000047": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000048": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000049": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000050": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000051": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000052": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000053": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000054": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000055": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000056": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000057": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000058": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000059": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000060": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000061": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000062": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000063": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000064": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000065": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000066": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000067": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000068": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000069": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000070": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000071": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000072": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000073": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000074": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000075": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000076": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000077": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000078": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000079": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000080": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000081": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000082": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000083": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000084": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000085": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000086": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000087": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000088": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000089": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000090": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000091": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000092": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000093": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000094": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000095": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000096": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000097": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000098": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000099": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000100": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000101": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000102": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000103": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000104": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000105": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000106": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000107": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000108": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000109": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000110": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000111": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000112": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000113": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000114": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000115": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000116": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000117": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000118": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000119": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000120": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000121": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000122": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000123": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000124": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000125": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000126": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000127": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000128": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000129": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000130": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000131": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000132": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000133": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000134": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000135": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000136": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000137": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000138": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000139": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000140": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000141": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000142": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000143": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000144": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000145": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000146": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000147": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000148": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000149": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000150": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000151": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000152": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000153": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "NODE_0000154": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "cdcA/California/90/2022_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "cdcA/Ohio/10/2022_mar": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "cdcA/Utah/27/2022o_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "cdcA/West_Virginia/21/2022_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "cricA/Portugal/211528/2022o_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "cricA/Portugal/211592/2022o_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "emcA/Netherlands/01141/2022o_jun": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "othA/Cardiff/1787/2022o_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "othA/Catalonia/NSVH101815476/2022o_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "othA/Netherlands/11529/2022o_may": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "othA/Niedersachsen/12/2022o_may": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "othA/South_Africa/R03454/2022o_mar": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "othA/South_Africa/R04202/2022o_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "othA/South_Africa/R04204/2022o_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "othA/South_Africa/R04930/2022o_apr": {
+      "clade_membership": "6B.1A.5a.2"
+    },
+    "othA/South_Africa/R04933/2022o_apr": {
+      "clade_membership": "6B.1A.5a.1"
+    },
+    "rivmA/Netherlands/11651/2022_jun": {
+      "clade_membership": "6B.1A.5a.1"
+    }
+  }
+}

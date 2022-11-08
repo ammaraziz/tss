@@ -1,0 +1,161 @@
+strain	designation	accession	clade	passage_long	passage	center_long	center	date	month_abbr	type	reference	h_serology	f_serology
+6B.1_A/Michigan/45/2015	A/Michigan/45/2015		6B.1	E	e				Reference	Reference	1		
+6B.1A.1_A/Brisbane/02/2018	A/Brisbane/02/2018		6B.1A.1	E	e				Reference	Reference	1		
+6B.1A.2_A/Townsville/21/2018	A/Townsville/21/2018		6B.1A.2	E	e				Reference	Reference	1		
+6B.1A.5a_A/Darwin/6/2018	A/Darwin/6/2018		6B.1A.5a	E	e				Reference	Reference	1		1
+6B.1A.5a.1_A/Guangdong-Maonan/SWL1536/2019	A/Guangdong-Maonan/SWL1536/2019		6B.1A.5a.1	E	e				Vaccine	Vaccine	1	1	1
+6B.1A.5a.2_A/Perth/21/2020	A/Perth/21/2020		6B.1A.5a.2						Reference	Reference	1		
+6B.1A.5a.2_A/Victoria/2570/2019	A/Victoria/2570/2019		6B.1A.5a.2	E	e				Reference	Vaccine	1	1	1
+6B.1A.5b_A/Canberra/337/2019	A/Canberra/337/2019		6B.1A.5b	E	e				Reference	Reference	1		1
+A/California/07/2009	A/California/07/2009			E	e				Reference	Reference	1		1
+A/Sydney/5/2021e_oct	A/Sydney/5/2021			E3	e			2021-10-16		Egg			
+A/Victoria/2455/2019e	A/Victoria/2455/2019			E4	e					Egg			1
+A/South_Africa/15549/2021e	A/South Africa/15549/2021	S10046954.4		E3				25/10/21		Egg			
+cdcA/Ohio/10/2022_mar	A/Ohio/10/2022	EPI_ISL_12709095		S1		Centers for Disease Control and Prevention	cdc	2022-03-19					
+cdcA/California/90/2022_apr	A/California/90/2022	EPI_ISL_13286911		Original	o	Centers for Disease Control and Prevention	cdc	2022-04-26					
+rivmA/Netherlands/11651/2022_jun	A/Netherlands/11651/2022	EPI_ISL_13324721		Original	o	National Institute for Public Health and the Environment (RIVM)	rivm	2022-06-03					
+A/North_Carolina/01/2021e				E2						Ferret Serology			
+A/Togo/881/2020				S2						Ferret Serology			
+A/Togo/44/2021e				E4						Ferret Serology			
+A/Brisbane/51/2022_apr	A/Brisbane/51/2022	N10055538.4		MDCK1									
+A/Newcastle/39/2022_apr	A/Newcastle/39/2022	N10055494.4		SIAT1									
+A/Sydney/173/2022e_apr	A/Sydney/173/2022	S10057010.4		E3						Egg			
+A/Darwin/7/2022e_apr	A/Darwin/7/2022	S10057009.4		E3						Egg			
+A/Sydney/175/2022e_apr	A/Sydney/175/2022	S10057011.4		E3						Egg			
+A/Brisbane/12/2022_apr	A/Brisbane/12/2022	S10047521.4		MDCK1				04/04/22					
+A/Canberra/182/2022_may	A/Canberra/182/2022	N10056758.4		MDCK1				19/05/22					
+A/Canberra/185/2022_may	A/Canberra/185/2022	N10056757.4		MDCK1				20/05/22					
+A/Canberra/178/2022_may	A/Canberra/178/2022	N10056759.4		MDCK1				18/05/22					
+A/South_Australia/70/2022_may	A/South Australia/70/2022	N10056761.4		SIAT2				17/05/22					
+A/Newcastle/85/2022_may	A/Newcastle/85/2022	N10056780.4		MDCK1				06/05/22					
+A/South_Australia/49/2022_may	A/South Australia/49/2022	N10056782.4		SIAT1				05/05/22					
+A/Victoria/747/2022_apr	A/Victoria/747/2022	N10056789.4		SIAT1				27/04/22					
+A/Newcastle/17/2022_apr	A/Newcastle/17/2022	N10056793.4		MDCK1				20/04/22					
+A/Newcastle/28/2022_apr	A/Newcastle/28/2022	N10056794.4		MDCK1				19/04/22					
+A/Newcastle/29/2022_apr	A/Newcastle/29/2022	N10056795.4		MDCK1				13/04/22					
+A/Sydney/72/2022_apr	A/Sydney/72/2022	N10056797.4		SIAT2				07/04/22					
+othA/Catalonia/NSVH101815476/2022o_may	A/Catalonia/NSVH101815476/2022	EPI_ISL_12705832		Original	o	Hospital Universitari Vall d'Hebron	oth	2022-05-04					
+cdcA/West_Virginia/21/2022_may	A/West Virginia/21/2022	EPI_ISL_13286916		S1		Centers for Disease Control and Prevention	cdc	2022-05-03					
+othA/Cardiff/1787/2022o_may	A/Cardiff/1787/2022	EPI_ISL_13338082		original	o	Public Health Wales Microbiology Cardiff	oth	2022-05-09					
+emcA/Netherlands/01141/2022o_jun	A/Netherlands/01141/2022	EPI_ISL_13499657		Original	o	Erasmus Medical Center	emc	2022-06-12					
+cdcA/Utah/27/2022o_may	A/Utah/27/2022	EPI_ISL_13584929		Original	o	Centers for Disease Control and Prevention	cdc	2022-05-16					
+othA/Niedersachsen/12/2022o_may	A/Niedersachsen/12/2022	EPI_ISL_13638360		Original	o	Robert Koch Institute Nationales Referenzzentrum für Influenza	oth	2022-05-04					
+cricA/Portugal/211592/2022o_may	A/Portugal/211592/2022	EPI_ISL_13704314		cs	o	Crick Worldwide Influenza Centre	cric	2022-05-22					
+cricA/Portugal/211528/2022o_may	A/Portugal/211528/2022	EPI_ISL_13704321		cs	o	Crick Worldwide Influenza Centre	cric	2022-05-05					
+othA/Netherlands/11529/2022o_may	A/Netherlands/11529/2022	EPI_ISL_12853610		Original	o	Haga Ziekenhuis	oth	2022-05-10					
+othA/South_Africa/R04204/2022o_apr	A/South Africa/R04204/2022	EPI_ISL_13399720		Original	o	National Institute for Communicable Diseases	oth	2022-04-01					
+othA/South_Africa/R04930/2022o_apr	A/South Africa/R04930/2022	EPI_ISL_13399727		Original	o	National Institute for Communicable Diseases	oth	2022-04-25					
+othA/South_Africa/R03454/2022o_mar	A/South Africa/R03454/2022	EPI_ISL_13399715		Original	o	National Institute for Communicable Diseases	oth	2022-03-11					
+othA/South_Africa/R04202/2022o_apr	A/South Africa/R04202/2022	EPI_ISL_13399719		Original	o	National Institute for Communicable Diseases	oth	2022-04-01					
+othA/South_Africa/R04933/2022o_apr	A/South Africa/R04933/2022	EPI_ISL_13399728		Original	o	National Institute for Communicable Diseases	oth	2022-04-22					
+													
+A/Darwin/132/2022_may	A/Darwin/132/2022	N10058456.4		MDCK1				11/05/22	may				
+A/Darwin/300/2022_may	A/Darwin/300/2022	N10058464.4		MDCK1				11/05/22	may				
+A/Darwin/156/2022_may	A/Darwin/156/2022	N10058458.4		MDCK1				07/05/22	may				
+A/Darwin/2402/2022_jun	A/Darwin/2402/2022	N10058462.4		SIAT1				26/06/22	jun				
+A/Darwin/350/2022_may	A/Darwin/350/2022	N10058466.4		MDCK1				13/05/22	may				
+A/Darwin/353/2022_may	A/Darwin/353/2022	N10058467.4		MDCK1				13/05/22	may				
+A/Darwin/383/2022_may	A/Darwin/383/2022	N10058469.4		MDCK1				13/05/22	may				
+A/Darwin/486/2022_may	A/Darwin/486/2022	N10058471.4		SIAT1				16/05/22	may				
+A/Darwin/405/2022_may	A/Darwin/405/2022	N10058470.4		MDCK1				12/05/22	may				
+A/Sydney/406/2022_may	A/Sydney/406/2022	N10058475.4		SIAT1				13/05/22	may				
+A/Darwin/368/2022_may	A/Darwin/368/2022	N10058468.4		MDCK1				14/05/22	may				
+A/Sydney/362/2022_may	A/Sydney/362/2022	N10058474.4		MDCK2				05/05/22	may				
+A/Darwin/491/2022_may	A/Darwin/491/2022	N10058472.4		SIAT1				17/05/22	may				
+A/Sydney/253/2022_apr	A/Sydney/253/2022	N10058473.4		MDCK1				30/04/22	apr				
+A/Sydney/458/2022_may	A/Sydney/458/2022	N10058476.4		MDCK1				18/05/22	may				
+A/Sydney/492/2022_apr	A/Sydney/492/2022	N10058477.4		MDCK1				12/04/22	apr				
+A/Sydney/644/2022_may	A/Sydney/644/2022	N10058480.4		MDCK1				19/05/22	may				
+A/Sydney/575/2022_may	A/Sydney/575/2022	N10058478.4		MDCK2				02/05/22	may				
+A/Victoria/4160/2022_jun	A/Victoria/4160/2022	N10058484.4		SIAT1				21/06/22	jun				
+A/Victoria/3602/2022_may	A/Victoria/3602/2022	N10058483.4		MDCK1				31/05/22	may				
+A/Sydney/798/2022_jun	A/Sydney/798/2022	N10058482.4		SIAT1				28/06/22	jun				
+A/Sydney/603/2022_may	A/Sydney/603/2022	N10058479.4		MDCK1				18/05/22	may				
+A/Sydney/656/2022_may	A/Sydney/656/2022	N10058481.4		MDCK1				20/05/22	may				
+A/Darwin/129/2022_may	A/Darwin/129/2022	N10058455.4		MDCK1				03/05/22	may				
+A/Darwin/136/2022_apr	A/Darwin/136/2022	N10058457.4		MDCK1				30/04/22	apr				
+A/Darwin/161/2022_may	A/Darwin/161/2022	N10058459.4		MDCK1				02/05/22	may				
+A/Darwin/220/2022_may	A/Darwin/220/2022	N10058461.4		MDCK1				10/05/22	may				
+A/Darwin/204/2022_may	A/Darwin/204/2022	N10058460.4		SIAT1				08/05/22	may				
+A/Darwin/262/2022_may	A/Darwin/262/2022	N10058463.4		MDCK1				10/05/22	may				
+A/Darwin/326/2022_may	A/Darwin/326/2022	N10058465.4		MDCK1				14/05/22	may				
+A/Canberra/173/2022_may	A/Canberra/173/2022	N10058451.4		MDCK1				17/05/22	may				
+A/Canberra/180/2022_may	A/Canberra/180/2022	N10058452.4		MDCK1				18/05/22	may				
+A/Darwin/105/2022_may	A/Darwin/105/2022	N10058453.4		MDCK1				09/05/22	may				
+A/Sydney/851/2022_jun	A/Sydney/851/2022	N10059395.4		MDCK1				10/06/22	jun				
+A/Sydney/823/2022_jun	A/Sydney/823/2022	N10059391.4		MDCK1				06/06/22	jun				
+A/Sydney/834/2022_jun	A/Sydney/834/2022	N10059394.4		MDCK1				08/06/22	jun				
+A/Sydney/774/2022_jun	A/Sydney/774/2022	N10059386.4		MDCK2				06/06/22	jun				
+A/Sydney/831/2022_jun	A/Sydney/831/2022	N10059392.4		MDCK1				07/06/22	jun				
+A/Sydney/853/2022_jun	A/Sydney/853/2022	N10059396.4		MDCK1				11/06/22	jun				
+A/Sydney/866/2022_jun	A/Sydney/866/2022	N10059397.4		MDCK1				13/06/22	jun				
+A/Sydney/869/2022_jun	A/Sydney/869/2022	N10059398.4		MDCK1				13/06/22	jun				
+A/Sydney/870/2022_jun	A/Sydney/870/2022	N10059399.4		MDCK1				14/06/22	jun				
+A/Sydney/880/2022_jun	A/Sydney/880/2022	N10059402.4		MDCK1				16/06/22	jun				
+A/Sydney/872/2022_jun	A/Sydney/872/2022	N10059400.4		MDCK1				14/06/22	jun				
+A/Sydney/877/2022_jun	A/Sydney/877/2022	N10059401.4		MDCK1				14/06/22	jun				
+A/Sydney/894/2022_jun	A/Sydney/894/2022	N10059403.4		MDCK1				21/06/22	jun				
+A/South_Africa/R05655/2022_may	A/South Africa/R05655/2022	N10059413.4		MDCK1, MDCK1				16/05/22	may				
+A/South_Africa/R05539/2022_may	A/South Africa/R05539/2022	N10059415.4		MDCK1, MDCK1				12/05/22	may				
+A/South_Africa/R05375/2022_may	A/South Africa/R05375/2022	N10059416.4		MDCK1, MDCK1				10/05/22	may				
+A/South_Africa/R04919/2022_apr	A/South Africa/R04919/2022	N10059418.4		MDCK1, MDCK1				26/04/22	apr				
+A/South_Africa/R04778/2022_apr	A/South Africa/R04778/2022	N10059421.4		MDCK1, MDCK1				21/04/22	apr				
+A/South_Africa/R04851/2022_apr	A/South Africa/R04851/2022	N10059420.4		MDCK1, MDCK1				19/04/22	apr				
+A/South_Africa/R05558/2022_may	A/South Africa/R05558/2022	N10059414.4		MDCK1, MDCK1				13/05/22	may				
+A/South_Africa/R04922/2022_apr	A/South Africa/R04922/2022	N10059417.4		MDCK1, MDCK1				25/04/22	apr				
+A/South_Africa/R04849/2022_apr	A/South Africa/R04849/2022	N10059419.4		MDCK1, MDCK1				19/04/22	apr				
+A/South_Africa/R04592/2022_apr	A/South Africa/R04592/2022	N10059422.4		MDCK1, MDCK1				13/04/22	apr				
+A/South_Africa/R04218/2022_apr	A/South Africa/R04218/2022	N10059423.4		MDCK1, MDCK1				07/04/22	apr				
+A/South_Africa/R03454/2022_mar	A/South Africa/R03454/2022	N10059427.4		MDCK1, MDCK1				11/03/22	mar				
+A/South_Africa/R05765/2022_may	A/South Africa/R05765/2022	N10059429.4		MDCK1, MDCK1				17/05/22	may				
+A/South_Africa/R04433/2022_apr	A/South Africa/R04433/2022	N10059424.4		MDCK1, MDCK1				13/04/22	apr				
+A/South_Africa/R01964/2022_feb	A/South Africa/R01964/2022	N10059431.4		MDCK1, MDCK1				16/02/22	feb				
+A/South_Africa/R05222/2022_may	A/South Africa/R05222/2022	N10059433.4		MDCK1, MDCK1				03/05/22	may				
+A/South_Africa/R00171/2022_jan	A/South Africa/R00171/2022	N10059438.4		MDCK1, MDCK1				06/01/22	jan				
+A/South_Africa/R04994/2022_apr	A/South Africa/R04994/2022	N10059435.4		MDCK1, MDCK1				25/04/22	apr				
+A/South_Africa/R05396/2022_may	A/South Africa/R05396/2022	N10059440.4		MDCK1, MDCK1				10/05/22	may				
+A/Perth/21/2022_may	A/Perth/21/2022	N10059441.4		MDCK-1, MDCK1				12/05/22	may				
+A/Perth/15/2022_may	A/Perth/15/2022	N10059442.4		MDCK-1, MDCK1				16/05/22	may				
+A/Perth/80/2022_jun	A/Perth/80/2022	N10059447.4		MDCK-1, MDCK1				03/06/22	jun				
+A/Perth/184/2022_jun	A/Perth/184/2022	N10059443.4		MDCK-1, MDCK1				15/06/22	jun				
+A/Canberra/230/2022_jun	A/Canberra/230/2022	N10059446.4		MDCK1				03/06/22	jun				
+A/Perth/167/2022_jun	A/Perth/167/2022	N10059444.4		MDCK-1, MDCK1				15/06/22	jun				
+A/Canberra/222/2022_jun	A/Canberra/222/2022	N10059445.4		MDCK1				12/06/22	jun				
+A/Canberra/202/2022_may	A/Canberra/202/2022	N10059448.4		MDCK1				23/05/22	may				
+A/Darwin/488/2022_may	A/Darwin/488/2022	N10059450.4		SIAT2				17/05/22	may				
+A/Sydney/613/2022_may	A/Sydney/613/2022	N10059453.4		MDCK2				18/05/22	may				
+A/Darwin/886/2022_may	A/Darwin/886/2022	N10059452.4		MDCK1				24/05/22	may				
+A/Canberra/224/2022_jun	A/Canberra/224/2022	N10059449.4		MDCK1				11/06/22	jun				
+A/Sydney/635/2022_may	A/Sydney/635/2022	N10059455.4		MDCK1				19/05/22	may				
+A/Darwin/417/2022_may	A/Darwin/417/2022	N10059451.4		MDCK2				15/05/22	may				
+A/Sydney/483/2022_may	A/Sydney/483/2022	N10059454.4		MDCK2				07/05/22	may				
+A/Sydney/498/2022_apr	A/Sydney/498/2022	N10059456.4		MDCK1				23/04/22	apr				
+A/Sydney/427/2022_may	A/Sydney/427/2022	N10059457.4		MDCK2				16/05/22	may				
+A/Newcastle/95/2022_may	A/Newcastle/95/2022	N10059458.4		SIAT1				09/05/22	may				
+A/Newcastle/78/2022_may	A/Newcastle/78/2022	N10059459.4		SIAT1				02/05/22	may				
+A/Darwin/395/2022_may	A/Darwin/395/2022	N10059460.4		MDCK1				14/05/22	may				
+A/Sydney/260/2022_may	A/Sydney/260/2022	N10059461.4		MDCK1				03/05/22	may				
+A/Darwin/106/2022_may	A/Darwin/106/2022	N10058454.4		MDCK1				09/05/22	may				
+A/Sydney/811/2022_jun	A/Sydney/811/2022	N10059388.4		MDCK1				04/06/22	jun				
+A/Sydney/819/2022_jun	A/Sydney/819/2022	N10059389.4		MDCK1				06/06/22	jun				
+A/Sydney/821/2022_jun	A/Sydney/821/2022	N10059390.4		MDCK1				06/06/22	jun				
+A/Sydney/832/2022_jun	A/Sydney/832/2022	N10059393.4		MDCK1				07/06/22	jun				
+A/Darwin/152/2022_may	A/Darwin/152/2022	N10059462.4		MDCK2				06/05/22	may				
+A/South_Africa/R04202/2022_apr	A/South Africa/R04202/2022	N10059425.4		MDCK1, MDCK1				01/04/22	apr				
+A/South_Africa/R03645/2022_mar	A/South Africa/R03645/2022	N10059426.4		MDCK1, MDCK1				18/03/22	mar				
+A/South_Africa/R03033/2022_mar	A/South Africa/R03033/2022	N10059428.4		MDCK1, MDCK1				04/03/22	mar				
+A/South_Africa/R02741/2022_mar	A/South Africa/R02741/2022	N10059430.4		MDCK1, MDCK1				03/03/22	mar				
+A/South_Africa/R05258/2022_may	A/South Africa/R05258/2022	N10059432.4		MDCK1, MDCK1				03/05/22	may				
+A/South_Africa/R05209/2022_may	A/South Africa/R05209/2022	N10059434.4		MDCK1, MDCK1				06/05/22	may				
+A/South_Africa/R04933/2022_apr	A/South Africa/R04933/2022	N10059436.4		MDCK1, MDCK1				22/04/22	apr				
+A/South_Africa/R05722/2022_may	A/South Africa/R05722/2022	N10059437.4		MDCK1, MDCK1				17/05/22	may				
+A/South_Africa/R05744/2022_may	A/South Africa/R05744/2022	N10059439.4		MDCK1, MDCK1				18/05/22	may				
+A/Darwin/349/2022_may	A/Darwin/349/2022	N10059463.4		MDCK1				13/05/22	may				
+A/Darwin/355/2022_may	A/Darwin/355/2022	N10059464.4		MDCK1				13/05/22	may				
+A/Darwin/363/2022_may	A/Darwin/363/2022	N10059465.4		MDCK1				14/05/22	may				
+A/Darwin/306/2022_may	A/Darwin/306/2022	N10059466.4		MDCK1				12/05/22	may				
+A/Darwin/117/2022_may	A/Darwin/117/2022	N10059467.4		MDCK1				06/05/22	may				
+A/Darwin/124/2022_may	A/Darwin/124/2022	N10059468.4		MDCK1				08/05/22	may				
+A/Sydney/232/2022_apr	A/Sydney/232/2022	N10059469.4		MDCK1				22/04/22	apr				
+A/Sydney/43/2022_apr	A/Sydney/43/2022	N10059470.4		SIAT2				13/04/22	apr				
+A/Darwin/33/2022_apr	A/Darwin/33/2022	N10059471.4		SIAT2				20/04/22	apr				
