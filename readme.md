@@ -1,3 +1,5 @@
+This pipeline is a work in progress.
+
 ## Pipeline Overview
 
 `tss` is an Snakemake-based Nextstrain/Augur phylogenetic reconstruction pipeline for seasional Influenza. It is based on the [Nextstrain seasonal-influ build](https://github.com/nextstrain/seasonal-flu). 
