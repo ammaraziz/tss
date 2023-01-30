@@ -1,22 +1,20 @@
-import time
 from pathlib import Path
 
 #export AUGUR_RECURSION_LIMIT=10000
 
 # input
-input_fasta = Path("data/YOURFASTA.fasta")
-input_metadata = Path("data/YOURFASTA.tsv")
-lineage = 'h1n1pdm' #vic h1n1pdm h3n2
-segment = 'ha' #ha na
+input_fasta = Path("data/tc2_bvic_na.fasta")
+input_metadata = Path("data/tc2_bvic.tsv")
+lineage = 'vic' #vic h1n1pdm h3n2
+segment = 'na' #ha na
 
-# name of reference to root tree
-reference_name = {
-    "h3n2" : "3C.3a_A/Switzerland/9715293/2013",
-    #"h1n1pdm" : "A/California/07/2009", 
-    "h1n1pdm" : "6B.1A.1_A/Brisbane/02/2018", 
-    "vic" : "V1A_B/Brisbane/60/2008"}
 
 #### Do not touch anything below this line ####
+
+reference_name = {
+    "h3n2"    : "3C.2a1b.1_A/Wisconsin/327/2017",
+    "h1n1pdm" : "6B.1A.2_A/Townsville/21/2018", 
+    "vic"     : "V1A_B/Brisbane/60/2008"}
 
 color_taxa = 'month_abbr'
 color_tips_shapes = 'type'
@@ -31,7 +29,6 @@ subtype_name = {
 }
 
 rootby = reference_name[lineage]
-
 
 # output file names
 nexus_out = "results" + "/" + input_fasta.stem + ".tree"
@@ -119,7 +116,7 @@ rule align:
         alignment = alignment_out
     params:
         refseq = reference
-    threads: 10
+    threads: 15
     shell:
         """
         augur align \
@@ -144,7 +141,7 @@ rule tree:
             #     --tree-builder-args="{params.tree_builder_args}" \
             # --override-default-args \
 
-    threads: 10
+    threads: 15
     shell:
         """
         augur tree \
@@ -357,7 +354,7 @@ rule plot_ggtree:
         color_taxa = color_taxa,
         color_tip = color_tips_shapes,
         title = "%s-%s Phylogenetic Analysis" % (lineage, segment),
-        size = "A3l"
+        size = "A3p"
     shell:
         """
         scripts/treeme.R  \
